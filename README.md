@@ -5,8 +5,9 @@ Welcome to my GitHub! I’m an aspiring fintech professional and beginner develo
 
 ---
 
-## 🧠 Featured Project: FinLit AI
+## 🧠 Featured Projects
 
+### FinLit AI  
 **FinLit AI** is an AI-powered chatbot designed to make financial literacy accessible and engaging for middle and high school students.
 
 - Trained on 200+ tailored Q&A pairs  
@@ -18,6 +19,13 @@ Welcome to my GitHub! I’m an aspiring fintech professional and beginner develo
 
 👉 [View the Repository](https://github.com/aromain222/FinLitLLM)
 
+### VC & Bitcoin Deals Web Scraper (In Progress)  
+Currently building a web scraper to track and analyze venture capital deals and bitcoin grant opportunities. This project aims to provide timely, actionable data for fintech startups and crypto innovators.
+
+- Focused on aggregating VC funding announcements and grant listings  
+- Will use Python libraries like BeautifulSoup and Selenium  
+- Designed to support data-driven decision making in emerging finance sectors  
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -25,6 +33,7 @@ Welcome to my GitHub! I’m an aspiring fintech professional and beginner develo
 - Python & Streamlit for app development  
 - OpenAI GPT-3.5 / GPT-4 (prompt engineering & fine-tuning)  
 - JSON data structuring  
+- Web scraping with BeautifulSoup, Selenium (in progress)  
 - Git & GitHub for version control  
 
 ---
@@ -40,10 +49,12 @@ Welcome to my GitHub! I’m an aspiring fintech professional and beginner develo
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/averyromain)  
-- [Email](mailto:Kingromain23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/averyromain)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kingromain23@gmail.com)  
+[![Repository](https://img.shields.io/badge/FinLitLLM-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aromain222/FinLitLLM)
 
 ---
 
 > _Empowering communities through technology and financial knowledge._
+
 
