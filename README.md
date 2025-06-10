@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m an aspiring fintech professional and beginner develo
 
 > _“Financial knowledge is a key to unlocking economic opportunity.”_
 
-👉 [View the Repository](https://github.com/your-username/finlit-ai)
+👉 [View the Repository](https://github.com/aromain222/FinLitLLM)
 
 ---
 
