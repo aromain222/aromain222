@@ -1,7 +1,8 @@
 👋 Hi, I'm Avery Romain  
 Student-Athlete | Beginner Developer | Fintech & AI Enthusiast  
 
-Welcome to my GitHub! I’m an aspiring fintech professional and beginner developer passionate about using AI and technology to improve financial literacy and economic empowerment—especially for underserved communities. Though early in my coding journey, I’ve built and deployed FinLit AI, an LLM-powered chatbot focused on teaching personal finance to youth.
+Welcome to my GitHub! I’m an aspiring fintech professional and developer passionate about using AI and technology to improve financial literacy and economic empowerment—especially for underserved communities. I’m currently a Political Science and Black Studies major at Amherst College, which informs my understanding of systemic economic challenges and the importance of inclusive financial education. My background and interests in finance and fintech drive my commitment to creating tools that empower individuals and communities economically. I have built and deployed FinLit AI, an LLM-powered chatbot focused on teaching personal finance to youth.
+
 
 ---
 
