@@ -41,7 +41,7 @@ Welcome to my GitHub! I’m an aspiring fintech professional and beginner develo
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/averyromain)  
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:Kingromain23@gmail.com)
 
 ---
 
