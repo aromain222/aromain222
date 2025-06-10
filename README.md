@@ -49,7 +49,7 @@ Currently building a web scraper to track and analyze venture capital deals and 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/averyromain)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avery-romain/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kingromain23@gmail.com)  
 [![Repository](https://img.shields.io/badge/FinLitLLM-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aromain222/FinLitLLM)
 
