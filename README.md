@@ -1,31 +1,53 @@
-👋 Hi, I'm Avery Romain  
-Student-Athlete | Beginner Developer | Fintech & AI Enthusiast  
+👋 Hi, I’m Avery Romain
+Student-Athlete | Builder | Fintech & AI
 
-Welcome to my GitHub! I’m an aspiring fintech professional and developer passionate about using AI and technology to improve financial literacy and economic empowerment—especially for underserved communities. I’m currently a Political Science and Black Studies major at Amherst College, which informs my understanding of systemic economic challenges and the importance of inclusive financial education. My background and interests in finance and fintech drive my commitment to creating tools that empower individuals and communities economically. I have built and deployed FinLit AI, an LLM-powered chatbot focused on teaching personal finance to youth.
+Welcome to my GitHub. I’m interested in how technology, especially AI, can simplify complex financial systems and make them more accessible. A lot of my work focuses on financial literacy and building tools that help people better understand and navigate money.
 
+I’m currently studying Political Science and Black Studies at Amherst College, which shapes how I think about economic systems, access, and inequality. That perspective carries into the projects I build and the problems I choose to work on.
 
----
+Outside of that, I’m a football player and focused on fitness. That discipline carries into how I build. I care about consistency, improving over time, and creating things that are actually useful.
 
-## 🧠 Featured Projects
+🧠 Featured Projects
+CapitalBase
 
-### FinLit AI  
-**FinLit AI** is an AI-powered chatbot designed to make financial literacy accessible and engaging for middle and high school students.
+CapitalBase is an AI-driven financial modeling platform that automates workflows like DCFs, comps, and market analysis.
 
-- Trained on 200+ tailored Q&A pairs  
-- Covers essential topics like saving, credit, and investing  
-- Mobile-friendly, classroom-tested design  
-- Built using Python, Streamlit, and OpenAI GPT models  
+Turns prompts into full financial models in seconds
+Integrates market data, news, and scenario analysis
+Reduces manual work in traditional finance workflows
+Focused on making complex analysis more interactive and dynamic
+FinLit AI
 
-> _“Financial knowledge is a key to unlocking economic opportunity.”_
+FinLit AI is an AI-powered chatbot designed to make financial literacy more approachable, especially for younger users.
 
-👉 [View the Repository](https://github.com/aromain222/FinLitLLM)
+Covers core concepts like saving, credit, and investing
+Designed to feel simple and conversational
+Built using Python, Streamlit, and OpenAI models
+Structured around practical, real-world questions
 
-### VC & Bitcoin Deals Web Scraper (In Progress)  
-Currently building a web scraper to track and analyze venture capital deals and bitcoin grant opportunities. This project aims to provide timely, actionable data for fintech startups and crypto innovators.
+👉 View the Repository
 
-- Focused on aggregating VC funding announcements and grant listings  
-- Will use Python libraries like BeautifulSoup and Selenium  
-- Designed to support data-driven decision making in emerging finance sectors  
+Stackr
+
+Stackr is a personalized financial stack builder focused on helping users set up the right accounts and tools based on their situation.
+
+Recommends banking, saving, and credit tools
+Designed for users with little to no financial background
+Focused on clarity and simplicity over complexity
+Built with accessibility and real-world use in mind
+Natural Language SQL (In Progress)
+
+Building a tool that converts natural language into executable SQL queries.
+
+Allows users to query databases without writing SQL
+Focused on making data access more intuitive
+Designed for non-technical users and analysts
+Bridges the gap between raw data and decision-making
+What I’m Focused On
+Financial literacy and access
+AI applications in finance and data workflows
+Building tools people actually use
+Simplifying systems that feel overly complex
 
 ---
 
