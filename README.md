@@ -16,16 +16,8 @@ Turns prompts into full financial models in seconds
 Integrates market data, news, and scenario analysis
 Reduces manual work in traditional finance workflows
 Focused on making complex analysis more interactive and dynamic
-FinLit AI
 
-FinLit AI is an AI-powered chatbot designed to make financial literacy more approachable, especially for younger users.
-
-Covers core concepts like saving, credit, and investing
-Designed to feel simple and conversational
-Built using Python, Streamlit, and OpenAI models
-Structured around practical, real-world questions
-
-👉 View the Repository
+👉 View the Repository: https://github.com/aromain222/FinModAI
 
 Stackr
 
@@ -36,6 +28,8 @@ Designed for users with little to no financial background
 Focused on clarity and simplicity over complexity
 Built with accessibility and real-world use in mind
 Natural Language SQL (In Progress)
+
+👉 View the Repository: https://github.com/aromain222/Stackr
 
 Building a tool that converts natural language into executable SQL queries.
 
